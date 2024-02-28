@@ -37,15 +37,15 @@ Implementation of Kinematic Inversion with Jacobian pseduo inverse kinematics on
 Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian inverse kinematics on SCARA manipulator
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Error.jpg" style="width: 50%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Joint_positions.jpg" style="width: 50%;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Joint positions.jpg" style="width: 50%;">
 </div>
 
 
 
 Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian pseduo inverse kinematics with obstacle avoidance on SCARA manipulator
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Error.jpg" style="width: 50%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint_positions.jpg" style="width: 50%;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Errors.jpg" style="width: 50%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint positions.jpg" style="width: 50%;">
 </div>
 
 
