@@ -29,19 +29,21 @@ Relax one component (z-component) in the operational space and implement a secon
 ## Visualization
 
 #### SCARA Manipulator Motion Video
-[Watch Video](https://github.com/Amenephous/Kinematic-Inversion_SCARA/assets/48127920/128061cc-653a-476e-8ad1-a8d4ad30c890)
+[Video demonstration](https://github.com/Amenephous/Kinematic-Inversion_SCARA/assets/48127920/128061cc-653a-476e-8ad1-a8d4ad30c890)
 
 #### Errors and Joint Positions
-| Errors | Joint Positions |
-|--------|-----------------|
-| ![Errors Part 1](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Error.jpg) | ![Joint Positions Part 1](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Joint_positions.jpg) |
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Error.jpg" style="width: 35%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Joint_positions.jpg" style="width: 35%;">
+</div>
 
 ### Part 2: Kinematic Inversion with Jacobian Pseudo-Inverse Kinematics with Obstacle Avoidance
 
 #### Errors and Joint Positions
-| Errors | Joint Positions |
-|--------|-----------------|
-| ![Errors Part 2](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Errors.jpg) | ![Joint Positions Part 2](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint_positions.jpg) |
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Errors.jpg" style="width: 30%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint_positions.jpg" style="width: 40%;">
+</div>
 
 
 
