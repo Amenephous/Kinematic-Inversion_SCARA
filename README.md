@@ -28,27 +28,21 @@ Relax one component (z-component) in the operational space and implement a secon
    
 ## Visualization
 
-Implementation of Kinematic Inversion with Jacobian pseduo inverse kinematics on SCARA manipulator
+#### SCARA Manipulator Motion Video
+[Watch Video](https://github.com/Amenephous/Kinematic-Inversion_SCARA/assets/48127920/128061cc-653a-476e-8ad1-a8d4ad30c890)
 
+#### Errors and Joint Positions
+| Errors | Joint Positions |
+|--------|-----------------|
+| ![Errors Part 1](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Error.jpg) | ![Joint Positions Part 1](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Joint_positions.jpg) |
 
-https://github.com/Amenephous/Kinematic-Inversion_SCARA/assets/48127920/128061cc-653a-476e-8ad1-a8d4ad30c890
+### Part 2: Kinematic Inversion with Jacobian Pseudo-Inverse Kinematics with Obstacle Avoidance
 
+#### Errors and Joint Positions
+| Errors | Joint Positions |
+|--------|-----------------|
+| ![Errors Part 2](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Errors.jpg) | ![Joint Positions Part 2](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint_positions.jpg) |
 
-
-
-Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian inverse kinematics on SCARA manipulator
-<div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Error.jpg" style="width: 35%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Joint positions.jpg" style="width: 35%;">
-</div>
-
-
-
-Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian pseduo inverse kinematics with obstacle avoidance on SCARA manipulator
-<div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Errors.jpg" style="width: 35%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint positions.jpg" style="width: 35%;">
-</div>
 
 
 
