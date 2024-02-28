@@ -28,13 +28,17 @@ Relax one component (z-component) in the operational space and implement a secon
    
 ## Visualization
 
-### Implementation of Kinematic Inversion with Jacobian pseduo inverse kinematics on SCARA manipulator
+Implementation of Kinematic Inversion with Jacobian pseduo inverse kinematics on SCARA manipulator
 https://github.com/Amenephous/Kinematic-Inversion_SCARA/assets/48127920/32651b8e-ac17-4175-81c5-028904db8996
 
-### Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian inverse kinematics on SCARA manipulator
+Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian inverse kinematics on SCARA manipulator
+![Error](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Error.jpg)
+![Joint Positions](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part1/Findings/Joint_positions.jpg)
 
 
-### Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian pseduo inverse kinematics with obstacle avoidance on SCARA manipulator
+Errors and Joint positions for part 1, that is Kinematic Inversion with Jacobian pseduo inverse kinematics with obstacle avoidance on SCARA manipulator
+![Error](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Error.jpg)
+![Joint Positions](https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint_positions.jpg)
 
 
 
