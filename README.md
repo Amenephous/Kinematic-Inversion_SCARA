@@ -41,8 +41,8 @@ Relax one component (z-component) in the operational space and implement a secon
 
 #### Errors and Joint Positions
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Errors.jpg" style="width: 30%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint positions.jpg" style="width: 40%;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Errors.jpg" style="width: 35%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Amenephous/Kinematic-Inversion_SCARA/main/part2/Findings/Joint positions.jpg" style="width: 35%;">
 </div>
 
 
